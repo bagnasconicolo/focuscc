@@ -119,10 +119,6 @@ CharmCC is a Python-based application designed for detecting and analyzing event
   - **High Threshold**: Upper bound for detecting edges.
 - **Filename Prefix**: Set a custom prefix for saved event images.
 - **Cooldown**: Set a time delay (in seconds) between consecutive detections.
-
-### File Customization:
-- **Icon**: Replace `ccicon.png` with your desired icon file in the project directory.
-
 ---
 
 ## Troubleshooting
@@ -143,15 +139,6 @@ CharmCC is a Python-based application designed for detecting and analyzing event
 
 4. **Icon Not Displaying**:
    - Ensure the icon file `ccicon.png` is in the correct directory and properly named.
-
----
-
-## Future Improvements
-
-- Support for advanced particle track visualization.
-- Automated analysis of saved event data.
-- Cross-platform webcam detection enhancements for Windows.
-- Extended cooldown customization (e.g., per event type).
 
 ---
 
