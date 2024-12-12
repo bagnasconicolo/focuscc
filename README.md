@@ -166,5 +166,5 @@ This software is open-source and distributed under the MIT License.
 
 ## Contact
 
-For support, feedback, or contributions, contact **Nicolò Bagnasco**:  
+For support, feedback or contributions, contact **Nicolò Bagnasco**:  
 📧 [nicolo.bagnasco@edu.unito.it](mailto:nicolo.bagnasco@edu.unito.it)
