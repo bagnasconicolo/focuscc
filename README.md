@@ -9,6 +9,7 @@
 ## Overview
 
 CharmCC is a Python-based application designed for detecting and analyzing events in a cloud chamber using computer vision techniques. It processes a live video feed, applies edge detection, and identifies particle tracks in real time. The software also supports saving detected events, managing multiple webcams, and customizing various detection parameters.
+![image](https://github.com/user-attachments/assets/3c07d29c-4605-4ceb-a0c0-634a581c1f9c)
 
 ---
 
