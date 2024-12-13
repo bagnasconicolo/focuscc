@@ -51,7 +51,7 @@ CharmCC is a Python-based application designed for detecting and analyzing event
 ### Steps to Install:
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/bagnasconicolo/charmcc]
+   git clone https://github.com/bagnasconicolo/charmcc
    cd CharmCC
    ```
 
