@@ -1,6 +1,5 @@
 
-# CharmCC: Python-Based Computer Vision for Cloud Chamber Events V 1.1.0
-**For newer versions check `CHANGELOG.md`**
+# CharmCC: Python-Based Computer Vision for Cloud Chamber Events
 
 **Author**: Nicolò Bagnasco  
 **Contact**: [nicolo.bagnasco@edu.unito.it](mailto:nicolo.bagnasco@edu.unito.it)
