@@ -1,0 +1,12 @@
+cff-version: 1.3.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bagnasco
+    given-names: Nicolò
+    orcid: https://orcid.org/0000-0001-6747-3329
+title: "CharmCC"
+version: 2.0.4
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.143471
+date-released: 2024-12-17
