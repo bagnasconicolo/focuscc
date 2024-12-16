@@ -3,6 +3,7 @@
 
 **Author**: Nicolò Bagnasco  
 **Contact**: [nicolo.bagnasco@edu.unito.it](mailto:nicolo.bagnasco@edu.unito.it)
+
 <a href="https://handle.stage.datacite.org/10.5072/zenodo.143471"><img src="https://sandbox.zenodo.org/badge/902097223.svg" alt="DOI"></a>
 
 ---
