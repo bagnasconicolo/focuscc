@@ -1,5 +1,5 @@
 
-# CharmCC: Python-Based Computer Vision for Cloud Chamber Events
+# FOCUSCC: Python-Based Computer Vision for Cloud Chamber Events
 
 **Author**: Nicolò Bagnasco  
 **Contact**: [nicolo.bagnasco@edu.unito.it](mailto:nicolo.bagnasco@edu.unito.it)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-CharmCC is a Python-based application designed for detecting and analyzing events in a cloud chamber using computer vision techniques. It processes a live video feed, applies edge detection, and identifies particle tracks in real time. The software also supports saving detected events, managing multiple webcams, and customizing various detection parameters.
+FOCUSCC is a Python-based application designed for detecting and analyzing events in a cloud chamber using computer vision techniques. It processes a live video feed, applies edge detection, and identifies particle tracks in real time. The software also supports saving detected events, managing multiple webcams, and customizing various detection parameters.
 
 ![image](https://github.com/user-attachments/assets/3c07d29c-4605-4ceb-a0c0-634a581c1f9c)
 
@@ -52,8 +52,8 @@ CharmCC is a Python-based application designed for detecting and analyzing event
 ### Steps to Install:
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bagnasconicolo/charmcc
-   cd CharmCC
+   git clone https://github.com/bagnasconicolo/FOCUScc
+   cd FOCUSCC
    ```
 
 2. **Install Dependencies**:
@@ -63,7 +63,7 @@ CharmCC is a Python-based application designed for detecting and analyzing event
 
 3. **Run the Application**:
    ```bash
-   python charmcc.py
+   python FOCUScc.py
    ```
 
 ---
